@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FEEDBACK VERSION="200701" COMMENT="XML-Importfile for mod/feedback">
+     <ITEMS>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[519]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Escolha o GRUPO do qual você faz parte]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Turma A|Turma B|Turma C]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[520]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a atuação do ASA_OU_SUPORTE (tutor) no período online da disciplina NOME_DISCIPLINA, como você avalia: [a condução do(s) fórum(ns)]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[521]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a atuação do ASA_OU_SUPORTE (tutor) no período online da disciplina NOME_DISCIPLINA, como você avalia: [as contribuições da atuação do ASA_OU_SUPORTE para a sua aprendizagem]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[522]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a atuação do ASA_OU_SUPORTE (tutor) no período online da disciplina NOME_DISCIPLINA, como você avalia: [a frequência de respostas e intervenções]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[523]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a atuação do ASA_OU_SUPORTE (tutor) no período online da disciplina NOME_DISCIPLINA, como você avalia: [o apoio na resolução de problemas com a plataforma]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+     </ITEMS>
+</FEEDBACK>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FEEDBACK VERSION="200701" COMMENT="XML-Importfile for mod/feedback">
+     <ITEMS>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[455]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período online da disciplina NOME_DISCIPLINA, como você avalia: [o conteúdo apresentado nas aulas]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[1]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom |Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[456]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período online da disciplina NOME_DISCIPLINA, como você avalia: [a abordagem do conteúdo nas aulas]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[2]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito Bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[457]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período online da disciplina NOME_DISCIPLINA, como você avalia: [a pontualidade ao iniciar as aulas]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[3]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[458]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período online da disciplina NOME_DISCIPLINA, como você avalia: [a organização do tempo de aula]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[4]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[459]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período online da disciplina NOME_DISCIPLINA, como você avalia: [a segurança ao falar sobre o tema]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[5]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[460]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período online da disciplina NOME_DISCIPLINA, como você avalia: [a adequação das avaliações propostas com o conteúdo ministrado na disciplina]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[6]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[461]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período online da disciplina NOME_DISCIPLINA, como você avalia: [o conhecimento demonstrado nas aulas]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[7]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[462]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período online da disciplina NOME_DISCIPLINA, como você avalia: [as atividades propostas e desenvolvidas na disciplina]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[8]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[463]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período presencial da disciplina NOME_DISCIPLINA, como você avalia: [o conteúdo apresentado nas aulas]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[9]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[464]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período presencial da disciplina NOME_DISCIPLINA, como você avalia: [a abordagem do conteúdo nas aulas]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[10]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[465]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período presencial da disciplina NOME_DISCIPLINA, como você avalia: [a pontualidade ao iniciar as aulas]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[11]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[466]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período presencial da disciplina NOME_DISCIPLINA, como você avalia: [a organização do tempo de aula]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[12]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[467]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período presencial da disciplina NOME_DISCIPLINA, como você avalia: [a segurança ao falar sobre o tema]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[13]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[468]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período presencial da disciplina NOME_DISCIPLINA, como você avalia: [a adequação das avaliações propostas com o conteúdo ministrado na disciplina]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[14]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>><<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[469]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período presencial da disciplina NOME_DISCIPLINA, como você avalia: [o conhecimento demonstrado nas aulas]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[15]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoice" REQUIRED="1">
+               <ITEMID>
+                    <![CDATA[470]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Sobre a ATUAÇÃO de NOME_PROFESSOR no período presencial da disciplina NOME_DISCIPLINA, como você avalia: [as atividades propostas e desenvolvidas na disciplina]]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[16]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[r>>>>>Muito ruim|Ruim|Regular|Bom|Muito bom<<<<<1]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[h]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+     </ITEMS>
+</FEEDBACK>
